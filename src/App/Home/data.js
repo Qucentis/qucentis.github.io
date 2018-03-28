@@ -8,15 +8,13 @@ export const credits = {
 export const post = {
   title: "Qucentis",
   content: `
-[Me][j], [Rakesh][r] & [Nikhil][n] is Qucentis, a 3 member software consultancy from [Trivandrum][t]. We specialize in __user experience__ & __blockchain__.
+[Me][j], [Rakesh][r] & [Nikhil][n] is Qucentis, a 3 member software consultancy from [Trivandrum][t]. We specialize in __user experience__ & __blockchain__/__peer-to-peer__ technologies.
 
 [__Design__][d] is a major part of what we do & we believe having taste is important.
 
-Now we are mostly involved with building [__Achal__][a] a blockchain based asset management system.
+We are selective about the projects we commit to. What we take up is beyond job for us & we strive to derive meaning from what we do.
 
-Helping other teams with their technical challenges is also something we do but we are selective about what we commit to. What we take up is beyond job for us & we strive to derive meaning from it.
-
-[Drop us a line][e] if you would like to know more about __Achal__ or is looking for a team in either of our specialities. Lets find out if we can work together.
+[Drop us a line][e] if you would like to know more or is looking for a team in either of our specialities. Lets find out if we can work together.
 
 [a]: https://www.youtube.com/watch?v=MV-nTGQMRxo
 [n]: https://github.com/nikhil-mohan
