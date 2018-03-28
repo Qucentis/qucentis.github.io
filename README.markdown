@@ -1,3 +1,3 @@
 # Qucentis Website
 
-Source for [Qucentis](http://qucentis.com).
+Source for [Qucentis](http://qucentis.org).
