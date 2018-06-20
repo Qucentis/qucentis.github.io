@@ -2,4 +2,9 @@ _site
 .sass-cache
 .jekyll-metadata
 node_modules
+<<<<<<< HEAD
 .DS_Store
+=======
+_build
+node_modules
+>>>>>>> 17dea47950d21a919f4770070a41cd4f7e9776ea
