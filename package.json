@@ -8,9 +8,14 @@
     "gatsby-link": "^1.6.40",
     "gatsby-plugin-react-helmet": "^2.0.10",
     "gh-pages": "^1.2.0",
-    "react-helmet": "^5.2.0"
+    "react-helmet": "^5.2.0",
+    "tachyons": "^4.10.0"
   },
-  "keywords": ["qucentis", "ssr", "react"],
+  "keywords": [
+    "qucentis",
+    "ssr",
+    "react"
+  ],
   "license": "MIT",
   "scripts": {
     "build": "gatsby build",
