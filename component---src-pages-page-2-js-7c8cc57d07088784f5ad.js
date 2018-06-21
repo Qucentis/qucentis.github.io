@@ -1,0 +1,2 @@
+webpackJsonp([0xc6c285f8fd10],{200:function(e,t,l){"use strict";function u(e){return e&&e.__esModule?e:{default:e}}t.__esModule=!0;var n=l(4),a=u(n),c=l(98),f=u(c),d=function(){return a.default.createElement("div",null,a.default.createElement("h1",null,"Contact"),a.default.createElement("p",null,"hello@qucentis.com"),a.default.createElement(f.default,{to:"/"},"Home!"))};t.default=d,e.exports=t.default}});
+//# sourceMappingURL=component---src-pages-page-2-js-7c8cc57d07088784f5ad.js.map
